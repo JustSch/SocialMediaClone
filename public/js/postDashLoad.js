@@ -115,9 +115,13 @@ function createDashboardHeader() {
     p1Element.setAttribute("class","lead mb-3");
     p1Element.textContent = "Search For a User to Follow";
 
+
+
     var searchLink = document.createElement("a");
-    searchLink.setAttribute("href","/PostCreator");
-    searchLink.textContent = "Here";
+    searchLink.setAttribute("href","/search");
+    searchLink.textContent = " Here";
+
+    p1Element.appendChild(searchLink);
 
     var logOutBtn = document.createElement("a");
     logOutBtn.setAttribute("href","/users/logout");
