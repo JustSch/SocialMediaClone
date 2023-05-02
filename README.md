@@ -18,5 +18,5 @@ npm install
 ```
 
 ```bash
-npm app.js
+node app.js
 ```
