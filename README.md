@@ -1,6 +1,8 @@
-# Social Media Clone
+# Social Media Clone Original
 
 An attempt to replicate the functions of a social media website using nodejs, ejs, passport, and, mongodb
+
+An updated version created with React is available [here](https://github.com/JustSch/social-media-clone-react-frontend)
 
 ![alt text](https://raw.githubusercontent.com/justsch/SocialMediaClone/main/screenshots/screenshot.png)
 
